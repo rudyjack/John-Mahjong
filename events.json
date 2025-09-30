@@ -1,0 +1,334 @@
+{
+  "events": {
+    "test reset bota": {
+      "16:00": [
+        "Jacek PLGS072",
+        "Szymon PLGS073"
+      ],
+      "17:00": [
+        "Jacek PLGS072",
+        "Szymon PLGS073"
+      ],
+      "18:00": [
+        "Szymon PLGS073"
+      ]
+    },
+    "test bota do zapisów": {
+      "10:00": [
+        "Szymon PLGS073",
+        "Michał PLMA032 (HANNYA 般若)",
+        "Łukasz PLGS001",
+        "Jacek PLGS072",
+        "Alicja PLGS#112",
+        "Iwona PLGS084",
+        "Oliwia PLGS109"
+      ],
+      "12:00": [
+        "Jacek PLGS072",
+        "Szymon PLGS073",
+        "Łukasz PLGS001",
+        "Alicja PLGS#112",
+        "Oliwia PLGS109"
+      ],
+      "14:00": [
+        "Oliwia PLGS109",
+        "Szymon PLGS073",
+        "Łukasz PLGS001",
+        "Alicja PLGS#112",
+        "Iwona PLGS084",
+        "Jacek PLGS072"
+      ]
+    },
+    "test bota dwa": {
+      "10:00": [
+        "Jacek PLGS072",
+        "Daniel PLGS102",
+        "Oliwia PLGS109",
+        "Iwona PLGS084",
+        "Szymon PLGS073"
+      ],
+      "12:30": [
+        "Jacek PLGS072",
+        "Oliwia PLGS109",
+        "Szymon PLGS073"
+      ],
+      "15:00": [
+        "Daniel PLGS102",
+        "Szymon PLGS073",
+        "Jacek PLGS072"
+      ]
+    },
+    "test bota dużo godzin": {
+      "10:00": [
+        "Oliwia PLGS109",
+        "Iwona PLGS084",
+        "Szymon PLGS073",
+        "Łukasz PLGS001",
+        "Alicja PLGS#112",
+        "Jacek PLGS072"
+      ],
+      "11:00": [
+        "Jacek PLGS072",
+        "Oliwia PLGS109",
+        "Iwona PLGS084",
+        "Szymon PLGS073",
+        "Łukasz PLGS001"
+      ],
+      "12:00": [
+        "Oliwia PLGS109",
+        "Iwona PLGS084",
+        "Szymon PLGS073",
+        "Łukasz PLGS001",
+        "Jacek PLGS072"
+      ],
+      "13:00": [
+        "Oliwia PLGS109",
+        "Iwona PLGS084",
+        "Szymon PLGS073",
+        "Łukasz PLGS001",
+        "Jacek PLGS072"
+      ],
+      "14:00": [
+        "Oliwia PLGS109",
+        "Iwona PLGS084",
+        "Szymon PLGS073",
+        "Łukasz PLGS001",
+        "Jacek PLGS072"
+      ],
+      "15:00": [
+        "Oliwia PLGS109",
+        "Iwona PLGS084",
+        "Szymon PLGS073",
+        "Łukasz PLGS001",
+        "Jacek PLGS072"
+      ],
+      "16:00": [
+        "Oliwia PLGS109",
+        "Iwona PLGS084",
+        "Szymon PLGS073",
+        "Łukasz PLGS001",
+        "Jacek PLGS072",
+        "Bartosz PLGS047"
+      ]
+    },
+    "Ranked Środa": {
+      "17:30": [],
+      "19:00": [],
+      "20:30": [],
+      "22:00": []
+    },
+    "test": {
+      "test": []
+    },
+    "Środa": {
+      "1": [],
+      "2": [],
+      "3": []
+    },
+    "sroda": {
+      "1": [],
+      "2": [],
+      "3": []
+    },
+    "śro": {
+      "1": [],
+      "2": [],
+      "3": []
+    },
+    "Ranked Środa – 2025-10-05": {
+      "17:30": [],
+      "19:00": [],
+      "20:30": [],
+      "22:00": []
+    },
+    "Ranked Sobota – 2025-10-05": {
+      "16:00": [],
+      "17:30": [],
+      "19:00": [],
+      "20:30": [],
+      "22:00": []
+    },
+    "Ranked Środa – 2025-10-01": {
+      "17:30": [
+        "Iwona PLGS084"
+      ],
+      "19:00": [
+        "Iwona PLGS084"
+      ],
+      "20:30": [
+        "Iwona PLGS084"
+      ],
+      "22:00": [
+        "Iwona PLGS084"
+      ]
+    },
+    "Ranked Sobota – 2025-10-04": {
+      "16:00": [
+        "Jacek PLGS072"
+      ],
+      "17:30": [
+        "Jacek PLGS072"
+      ],
+      "19:00": [],
+      "20:30": [],
+      "22:00": []
+    }
+  },
+  "messages": {
+    "1421583814588629035": {
+      "nazwa": "test bota dwa",
+      "godziny": [
+        "10:00",
+        "12:30",
+        "15:00"
+      ],
+      "channel_id": 599692013587136522
+    },
+    "1421585848234803312": {
+      "nazwa": "test bota dużo godzin",
+      "godziny": [
+        "10:00",
+        "11:00",
+        "12:00",
+        "13:00",
+        "14:00",
+        "15:00",
+        "16:00"
+      ],
+      "channel_id": 599692013587136522
+    },
+    "1421924411140735058": {
+      "nazwa": "Ranked Środa",
+      "godziny": [
+        "17:30",
+        "19:00",
+        "20:30",
+        "22:00"
+      ],
+      "channel_id": 1420873191156350987
+    },
+    "1421925372194455552": {
+      "nazwa": "Ranked Środa",
+      "godziny": [
+        "17:30",
+        "19:00",
+        "20:30",
+        "22:00"
+      ],
+      "channel_id": 1420873191156350987
+    },
+    "1421933973411467275": {
+      "nazwa": "test",
+      "godziny": [
+        "test"
+      ],
+      "channel_id": 1420873191156350987
+    },
+    "1421934231268884612": {
+      "nazwa": "Środa",
+      "godziny": [
+        "1",
+        "2",
+        "3"
+      ],
+      "channel_id": 1420873191156350987
+    },
+    "1421938364726378620": {
+      "nazwa": "sroda",
+      "godziny": [
+        "1",
+        "2",
+        "3"
+      ],
+      "channel_id": 1420873191156350987
+    },
+    "1421938415439577248": {
+      "nazwa": "śro",
+      "godziny": [
+        "1",
+        "2",
+        "3"
+      ],
+      "channel_id": 1420873191156350987
+    },
+    "1421939512858378281": {
+      "nazwa": "Ranked Środa – 2025-10-05",
+      "godziny": [
+        "17:30",
+        "19:00",
+        "20:30",
+        "22:00"
+      ],
+      "channel_id": 1420866324799946844
+    },
+    "1421939523738402918": {
+      "nazwa": "Ranked Sobota – 2025-10-05",
+      "godziny": [
+        "16:00",
+        "17:30",
+        "19:00",
+        "20:30",
+        "22:00"
+      ],
+      "channel_id": 1420866324799946844
+    },
+    "1421942685031464960": {
+      "nazwa": "Ranked Środa – 2025-10-05",
+      "godziny": [
+        "17:30",
+        "19:00",
+        "20:30",
+        "22:00"
+      ],
+      "channel_id": 1420866324799946844
+    },
+    "1421942694917439599": {
+      "nazwa": "Ranked Sobota – 2025-10-05",
+      "godziny": [
+        "16:00",
+        "17:30",
+        "19:00",
+        "20:30",
+        "22:00"
+      ],
+      "channel_id": 1420866324799946844
+    },
+    "1421942959733084344": {
+      "nazwa": "Ranked Środa – 2025-10-01",
+      "godziny": [
+        "17:30",
+        "19:00",
+        "20:30",
+        "22:00"
+      ],
+      "channel_id": 1420866324799946844
+    },
+    "1421943175630815282": {
+      "nazwa": "Ranked Sobota – 2025-10-04",
+      "godziny": [
+        "16:00",
+        "17:30",
+        "19:00",
+        "20:30",
+        "22:00"
+      ],
+      "channel_id": 1420866324799946844
+    },
+    "1422255767695654943": {
+      "nazwa": "Ranked Sobota – 2025-10-04",
+      "godziny": [
+        "16:00",
+        "17:30",
+        "19:00",
+        "20:30",
+        "22:00"
+      ],
+      "channel_id": 1420866324799946844
+    },
+    "1422255941662933012": {
+      "nazwa": "rolemsg",
+      "godziny": [],
+      "channel_id": 1190408331441999902
+    }
+  }
+}
