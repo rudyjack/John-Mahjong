@@ -1,3 +1,0 @@
-git add .
-git commit -m "Add Fly.io deploy config"
-git push origin main
